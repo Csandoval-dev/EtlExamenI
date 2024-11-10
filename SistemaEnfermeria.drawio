@@ -271,6 +271,9 @@
         <mxCell id="Rq_J5axLeS3DPgupQNah-89" value="N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="535" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="et-fJDxwFRY-9EhgUw7M-1" value="Carlos Leonel Sandoval Cerrato -62111743" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="120" width="195" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
