@@ -529,7 +529,7 @@
         <mxCell id="c--go3GaVP2PXI2ZTADo-158" value="N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1399" y="-140" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c--go3GaVP2PXI2ZTADo-159" value="Recibe" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="c--go3GaVP2PXI2ZTADo-159" value="Genera" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1328" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-160" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c--go3GaVP2PXI2ZTADo-159" target="c--go3GaVP2PXI2ZTADo-6">
@@ -573,6 +573,12 @@
             <mxPoint x="1397" y="-580" as="sourcePoint" />
             <mxPoint x="1395" y="-620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c--go3GaVP2PXI2ZTADo-167" value="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="-333" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c--go3GaVP2PXI2ZTADo-168" value="N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="-440" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
