@@ -17,7 +17,7 @@
           <mxGeometry x="760" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-6" value="Suscripcion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="1350" y="-251" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-7" value="Pago" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="100" height="40" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="260" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-41" value="ID_Suscripcion" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="970" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="1200" y="-311" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-42" value="ID_Paciente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="392" y="10" width="100" height="40" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="108" y="82" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-49" value="Estado" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="1505" y="-241" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-50" value="ID_Suscripcion" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="100" height="40" as="geometry" />
@@ -146,16 +146,16 @@
           <mxGeometry x="115" y="12" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-58" value="ID_Clinica" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="1263" y="554" width="100" height="40" as="geometry" />
+          <mxGeometry x="1493" y="-307" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1283.0027359802689" y="584.9967286566477" as="sourcePoint" />
-            <mxPoint x="1353.2372640197314" y="584.9967286566477" as="targetPoint" />
+            <mxPoint x="1513.0027359802689" y="-276.00327134335225" as="sourcePoint" />
+            <mxPoint x="1583.2372640197314" y="-276.00327134335225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-60" value="Fecha_Inicio" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="1210" y="-241" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-61" value="Mensaje" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="388" y="-535" width="100" height="40" as="geometry" />
@@ -483,6 +483,9 @@
         </mxCell>
         <mxCell id="c--go3GaVP2PXI2ZTADo-149" value="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="33" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c--go3GaVP2PXI2ZTADo-150" value="Agenda" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
