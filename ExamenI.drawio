@@ -77,13 +77,19 @@
           <mxGeometry x="-71" y="-105" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-27" value="Seguro_Medico" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-520" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="-520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-28" value="ID_Seguro" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-580" width="100" height="40" as="geometry" />
+          <mxGeometry x="-9" y="-530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-30" value="Proveedor" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-600" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="-590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-31" value="Numero_Poliza" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-33" value="Cobertura" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-530" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
