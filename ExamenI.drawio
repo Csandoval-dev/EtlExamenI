@@ -251,13 +251,13 @@
           <mxGeometry x="590" y="2" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-82" value="ID_Historial" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="510" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="470" y="42" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-83" value="ID_Paciente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="730" y="25" width="100" height="40" as="geometry" />
+          <mxGeometry x="710" y="25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-85" value="ID_Medico" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="650" y="70" width="100" height="40" as="geometry" />
+          <mxGeometry x="682" y="72" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-86" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="653" y="-59" width="100" height="40" as="geometry" />
@@ -306,6 +306,18 @@
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-97" value="N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="-95" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="53" as="sourcePoint" />
+            <mxPoint x="785" y="53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="706" y="101" as="sourcePoint" />
+            <mxPoint x="756" y="101" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
