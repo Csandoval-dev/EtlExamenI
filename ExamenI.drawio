@@ -8,36 +8,27 @@
           <mxGeometry x="119" y="-263" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-2" value="ID_Paciente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="32" y="-358" width="100" height="40" as="geometry" />
+          <mxGeometry x="-10" y="-346" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-3" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-307" width="100" height="40" as="geometry" />
+          <mxGeometry x="-8" y="-295" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-4" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="239" y="-344" width="100" height="40" as="geometry" />
+          <mxGeometry x="239" y="-349" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-5" value="FechaNacimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-259" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="stkBc33TZ4ZUdulqgKSo-6" value="Genero" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="85" y="-175" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="stkBc33TZ4ZUdulqgKSo-7" value="Direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-240" width="100" height="40" as="geometry" />
+          <mxGeometry y="-238" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-8" value="Telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="238" y="-180" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="stkBc33TZ4ZUdulqgKSo-10" value="Email" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="-210" width="100" height="40" as="geometry" />
+          <mxGeometry x="239" y="-233" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-11" value="ID_Seguro" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-290" width="100" height="40" as="geometry" />
+          <mxGeometry x="242" y="-296" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="271" y="-261" as="sourcePoint" />
-            <mxPoint x="321" y="-261" as="targetPoint" />
+            <mxPoint x="263" y="-267" as="sourcePoint" />
+            <mxPoint x="313" y="-267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-15" value="Vacunacion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
