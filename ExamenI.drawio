@@ -20,7 +20,7 @@
           <mxGeometry x="-20" y="-259" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-6" value="Genero" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-163" width="100" height="40" as="geometry" />
+          <mxGeometry x="86" y="-170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-7" value="Direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="-240" width="100" height="40" as="geometry" />
@@ -41,27 +41,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-15" value="Vacunacion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="-165" y="-50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-16" value="ID_Paciente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="-290" y="-50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-17" value="ID_Vacuna" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="-123" width="100" height="40" as="geometry" />
+          <mxGeometry x="-260" y="-113" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-19" value="NombreVacuna" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-88" width="100" height="40" as="geometry" />
+          <mxGeometry x="-128" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-20" value="FechaAplicacion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-220" width="100" height="40" as="geometry" />
+          <mxGeometry x="-260" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-21" value="Tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-143" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="stkBc33TZ4ZUdulqgKSo-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.351;exitY=0.867;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="stkBc33TZ4ZUdulqgKSo-21" target="stkBc33TZ4ZUdulqgKSo-15">
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="stkBc33TZ4ZUdulqgKSo-21" target="stkBc33TZ4ZUdulqgKSo-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="-110" as="sourcePoint" />
-            <mxPoint x="220" y="-110" as="targetPoint" />
+            <mxPoint x="-78.41000000000008" y="-80.98000000000002" as="sourcePoint" />
+            <mxPoint x="180" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="stkBc33TZ4ZUdulqgKSo-21" target="stkBc33TZ4ZUdulqgKSo-1">
@@ -107,10 +107,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-37" value="N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-74" y="-99" width="40" height="30" as="geometry" />
+          <mxGeometry x="-99" y="-101" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-38" value="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="-425" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-39" value="Cita" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-40" value="ID_Paciente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-41" value="ID_Cita" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-42" value="ID_Medico" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="43" y="-69" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
