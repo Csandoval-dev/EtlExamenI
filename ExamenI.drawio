@@ -476,7 +476,19 @@
           <mxGeometry x="1215" y="148" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-156" value="Resultado_Laboratorio" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="280" width="125" height="40" as="geometry" />
+          <mxGeometry x="1199" y="280" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-157" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="stkBc33TZ4ZUdulqgKSo-155" target="stkBc33TZ4ZUdulqgKSo-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="50" as="sourcePoint" />
+            <mxPoint x="1220" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-158" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="stkBc33TZ4ZUdulqgKSo-156" target="stkBc33TZ4ZUdulqgKSo-155">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="80" as="sourcePoint" />
+            <mxPoint x="1240" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
