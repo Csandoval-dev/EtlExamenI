@@ -20,7 +20,7 @@
           <mxGeometry x="-20" y="-259" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-6" value="Genero" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="54" y="-163" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="-163" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stkBc33TZ4ZUdulqgKSo-7" value="Direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="-240" width="100" height="40" as="geometry" />
@@ -39,6 +39,21 @@
             <mxPoint x="271" y="-261" as="sourcePoint" />
             <mxPoint x="321" y="-261" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-15" value="Vacunacion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="-70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-16" value="ID_Paciente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-17" value="ID_Vacuna" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-123" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-19" value="NombreVacuna" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-88" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="stkBc33TZ4ZUdulqgKSo-20" value="FechaAplicacion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-220" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
