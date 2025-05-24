@@ -365,8 +365,11 @@
         <mxCell id="6joTbmnNupk_-EoHwrkU-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Patch panel&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6joTbmnNupk_-EoHwrkU-79" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;monospace&quot;&gt;&lt;b&gt;Rack&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="690" width="140" height="40" as="geometry" />
+        <mxCell id="6joTbmnNupk_-EoHwrkU-79" value="&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Jack RJ45&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6joTbmnNupk_-EoHwrkU-80" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;monospace&quot;&gt;&lt;b&gt;Rack&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="703" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
