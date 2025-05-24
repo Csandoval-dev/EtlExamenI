@@ -353,6 +353,15 @@
             <mxPoint x="240" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6joTbmnNupk_-EoHwrkU-73" value="&lt;b&gt;PC 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160.96000000000004" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6joTbmnNupk_-EoHwrkU-74" value="&lt;b&gt;PC 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11.039999999999992" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6joTbmnNupk_-EoHwrkU-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Patch panel&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
